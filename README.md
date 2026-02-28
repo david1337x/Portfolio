@@ -9,39 +9,50 @@ Personal website showcasing selected web development projects. Built with HTML, 
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Overview](#Overview)
+- [Features](#Features)
+- [Tech Stack](#Tech Stack)
+- [Installation](#Installation)
+- [Project Structure](#Project Structure)
+- [Author](#Author)
+- [License](#License)
+
+
+## Features
+
+- Modern and responsive design
+- Smooth transitions and visual effects
+- Interactive animations that move with the cursor
+
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/david1337x/portfolio.git
 ```
 
 ## Usage
 
 ```bash
-Locally Host
+python3 -m http.server
 ```
 
-## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+## Project Structure
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+```
+Portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── images/
+```
 
 ## License
 
@@ -50,5 +61,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 David
-
-Project Link: [https://github.com/username/reactive-space](https://github.com/username/reactive-space)
+Email: [davidoesitbetter@airmail.cc](davidoesitbetter@airmail.cc)

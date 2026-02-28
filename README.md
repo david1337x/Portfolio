@@ -1,120 +1,54 @@
-🌐 Reactive Space
-📌 Introduction
+# Reactive Space
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and creativity as a web developer. Built using HTML, CSS, and JavaScript, the website features smooth animations and interactive elements that move dynamically with the user's cursor to create an engaging user experience.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
-📚 Table of Contents
+## Description
 
-Introduction
+Personal website showcasing selected web development projects. Built with HTML, CSS, and JavaScript.
 
-Features
+## Table of Contents
 
-Installation
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Usage
+## Installation
 
-Technologies Used
-
-Configuration
-
-Project Structure
-
-Examples
-
-Troubleshooting
-
-Contributors
-
-License
-
-✨ Features
-
-🎨 Modern and responsive design
-
-🖱️ Interactive animations that move with the cursor
-
-⚡ Smooth transitions and visual effects
-
-📱 Mobile-friendly layout
-
-📂 Project showcase section
-
-📬 Contact section
-
-⚙️ Installation
-
-Since this is a static website, no installation is required.
-
-Clone the repository:
-
+```bash
 git clone https://github.com/yourusername/portfolio.git
+```
 
-Open the project folder.
+## Usage
 
-Run index.html in your browser.
+```bash
+Locally Host
+```
 
-🚀 Usage
+## Features
 
-Simply open the website in your browser to explore:
+- Feature 1
+- Feature 2
+- Feature 3
 
-View projects
+## Contributing
 
-Experience interactive cursor animations
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-Learn more about my skills and background
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Get in touch through the contact section
+## License
 
-🛠️ Technologies Used
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-HTML5 – Structure
-
-CSS3 – Styling & Animations
-
-JavaScript (Vanilla JS) – Interactivity & Cursor Movement Effects
-
-🔧 Configuration
-
-No additional configuration is required.
-
-To customize:
-
-Update content inside index.html
-
-Modify styles in style.css
-
-Adjust animation behavior in script.js
-
-📁 Project Structure
-Portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-    ├── images/
-    └── icons/
-🖼️ Examples
-
-Interactive elements follow the cursor to create a dynamic visual experience.
-Smooth hover effects enhance user interaction.
-
-🛠 Troubleshooting
-
-Animations not working?
-
-Ensure JavaScript is properly linked in index.html
-
-Check browser console for errors
-
-Styles not loading?
-
-Verify correct CSS file path
-
-👤 Contributors
+## Contact
 
 David
 
-📄 License
-
-This project is licensed under the MIT License — feel free to use and modify it for your own portfolio.
+Project Link: [https://github.com/username/reactive-space](https://github.com/username/reactive-space)

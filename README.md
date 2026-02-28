@@ -11,9 +11,9 @@ Personal website showcasing selected web development projects. Built with HTML, 
 
 - [Overview](#Overview)
 - [Features](#Features)
-- [Tech Stack](#Tech Stack)
+- [Framework](#Framework)
 - [Installation](#Installation)
-- [Project Structure](#Project Structure)
+- [Project Structure](#Structure)
 - [Author](#Author)
 - [License](#License)
 
@@ -24,7 +24,7 @@ Personal website showcasing selected web development projects. Built with HTML, 
 - Smooth transitions and visual effects
 - Interactive animations that move with the cursor
 
-## Tech Stack
+## Framework
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
@@ -42,7 +42,7 @@ python3 -m http.server
 ```
 
 
-## Project Structure
+## Structure
 
 ```
 Portfolio/

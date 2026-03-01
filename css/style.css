@@ -80,3 +80,41 @@ body {
         padding: 4px;
     }
 }
+.icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 3em;      /* keeps container proportional */
+    height: 3em;
+    text-decoration: none;
+}
+
+.icon i {
+    font-size: 2em;  /* same for both */
+    line-height: 1;
+    transition: 0.3s ease;
+}
+
+/* Spotify */
+.spotify i {
+    color: #1DB954;
+}
+
+.spotify:hover i {
+    text-shadow:
+        0 0 6px #1DB954,
+        0 0 12px #1DB954,
+        0 0 20px #1DB954;
+}
+
+/* GitHub */
+.github i {
+    color: #000;
+}
+
+.github:hover i {
+    text-shadow:
+        0 0 6px #fff,
+        0 0 12px #ccc,
+        0 0 20px #999;
+}

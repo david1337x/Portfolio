@@ -59,5 +59,5 @@ Portfolio/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Email: [davidoesitbetter@airmail.cc](davidoesitbetter@airmail.cc)
+Email: [contact@dav1337.com](contact@dav1337.com)
 =======
